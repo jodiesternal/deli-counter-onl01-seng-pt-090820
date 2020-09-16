@@ -1,2 +1,1 @@
-def line(name)
-  
+def line
